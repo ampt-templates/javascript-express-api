@@ -3,7 +3,7 @@
         <h1>Ampt + Express (JavaScript) Template</h1>
     </div>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/ampt-templates/templates-manifest/main/images/ampt-api.svg" alt="ampt-logo" width="200"/>
+        <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="200"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="ts-logo" width="180"/>
     </p>
 </p>
